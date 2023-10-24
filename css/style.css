@@ -43,15 +43,16 @@ header {
 	padding: 200px 0;
 }
 
-header,
-footer {
-	background: url(../img/2.png),
-		linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
+header {
+	/* background: url(../img/2.png),
+		linear-gradient(to right, var(--color1) 0%, var(--color2) 100%); */
+	background: #fff;
 }
 
 .coursebook,
-.work {
-	background-color: #eee;
+.work,
+footer {
+	background-color: #888c91;
 }
 
 .link {
