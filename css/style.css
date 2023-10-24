@@ -50,7 +50,9 @@ header {
 }
 
 .coursebook,
-.work,
+.work {
+	background-color: #eee;
+}
 footer {
 	background-color: #888c91;
 }
