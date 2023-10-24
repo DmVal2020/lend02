@@ -48,6 +48,10 @@ header {
 		linear-gradient(to right, var(--color1) 0%, var(--color2) 100%); */
 	background: #fff;
 }
+.logo {
+	display: flex;
+	align-items: center;
+}
 
 .coursebook,
 .work {
